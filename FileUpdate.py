@@ -3,7 +3,7 @@ import random
 import datetime
 import shutil
 
-# Socials: 
+# Socials: https://github.com/CodeCamper999
 # Instagram: https://www.instagram.com/wrlddisciple999
 # Twitter: https://x.com/wrlddisciple999
 
